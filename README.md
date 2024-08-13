@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YosefFekade
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning java script
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me https://twitter.com/YoseFFekade
 - 😄 Pronouns: he/him
